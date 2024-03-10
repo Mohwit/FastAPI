@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="$USER_HOME$/.local/bin/black" />
+    <option name="sdkUUID" value="daef3fb1-de9c-4c44-a151-c0a96a67a9f3" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (FastApi)" project-jdk-type="Python SDK" />
+</project>
